@@ -16,7 +16,7 @@ https://marqueegroup.ca/resource/python-packages-101-part-2/
 This link also has a great list of all the popular "finance" packages in Python:
 https://github.com/wilsonfreitas/awesome-quant 
 
-## My Medium Account:
+## My Medium Account
 https://bogdan-tudose.medium.com/
 - I wrote several articles on Python Packages, using Streamlit to create interactive dashboards, and using the Yahoo Finance API to scrape live market data
 - you can also find my lists of bookmarked articles on there (I've tried to categorize them by topic)
@@ -43,3 +43,11 @@ The best way to practice with Pandas is to import and manipulate different data 
 - IMF data sets: http://data.imf.org/
 - FiveThirtyEight (Nate Silver) data sets: https://data.fivethirtyeight.com/
 - NASDAQ data sets: https://data.nasdaq.com/search
+
+## Streamlit Dashboards
+Links to these can also be found on my github profile page and LinkedIn.
+- :chart_with_upwards_trend:[Stock Beta Calculator](https://bitly.com/StockBetaApp): Dashboard created with Streamlit and Python to calculate a stock's beta. Pick a ticker and a stock index to run the regression and calculate the beta. [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dbogt/stockbetadashboard/main/app.py) 
+- :chart_with_upwards_trend:[Options Calculator](https://bit.ly/OptionsCalculator): Dashboard created with Streamlit and Python to calculate a call/put option value with Black Scholes. App also allows to scrape options chains from Yahoo Finance for a particular ticker and visualizes strike prices vs. implied vols and bid/ask/last price of option. [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dbogt/optionscalculator/main/app.py) 
+- :moneybag:[Ontario Sunshine List](https://bit.ly/ONSunshineList): Dashboard that explores 20+ years of public sector salary disclosures from Ontario (https://www.ontario.ca/page/public-sector-salary-disclosure). [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dbogt/on_sunshine/main) 
+- :movie_camera::trophy:[Oscars 2022 Predictions](https://bitly.com/oscarsApp): Make predictions for the top categories and compare your answers with other people around the world. Also try out the Best Picture Emoji quiz while you're at it! [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dbogt/oscars2022/main) 
+- :game_die:[Board Game Collection](https://bitly.com/BGGApp): Check out your board game collection by connecting with your BoardGameGeek account. [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dbogt/bggcollection/main/app.py) 
