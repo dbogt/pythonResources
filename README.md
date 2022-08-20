@@ -10,8 +10,8 @@ Below is also a list of a few resources I've used in the past for Python, along 
 
 ## Popular Python Packages
 A couple articles I wrote on top 25 packages I use on day to day basis in Python:
-https://marqueegroup.ca/resource/python-packages-101-part-1/
-https://marqueegroup.ca/resource/python-packages-101-part-2/
+- Part 1: https://marqueegroup.ca/resource/python-packages-101-part-1/
+- Part 2: https://marqueegroup.ca/resource/python-packages-101-part-2/
 
 This link also has a great list of all the popular "finance" packages in Python:
 https://github.com/wilsonfreitas/awesome-quant 
