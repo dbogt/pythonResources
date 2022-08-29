@@ -29,6 +29,7 @@ https://bogdan-tudose.medium.com/
 - https://www.reddit.com/r/learnpython
 - https://stackoverflow.com/ - people usually ask specific questions and best answer gets upvoted
 - https://pbpython.com/ - newsletter/blog with some practical business applications
+- https://kandi.openweaver.com/explore/python - Discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi
 
 ## Alternative Data Sets
 The best way to practice with Pandas is to import and manipulate different data sets. Ideally, try using excel/csv files that you already have at work and use on a day to day basis. However, if you want to experiment with "cleaner" data sets (that don't have as many issues) there are a couple websites I use below.
