@@ -30,6 +30,18 @@ https://bogdan-tudose.medium.com/
 - https://stackoverflow.com/ - people usually ask specific questions and best answer gets upvoted
 - https://pbpython.com/ - newsletter/blog with some practical business applications
 
+## Book Recommendations
+- Python for Finance
+  - Author: Yves Hilpisch
+  - Github: https://github.com/yhilpisch/py4fi2nd
+  - Link: https://www.oreilly.com/library/view/python-for-finance/9781492024323/
+
+- Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems
+  - Author: Aurélien Géron
+  - Github: https://github.com/ageron/handson-ml3
+  - Link: https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/
+
+
 ## Alternative Data Sets
 The best way to practice with Pandas is to import and manipulate different data sets. Ideally, try using excel/csv files that you already have at work and use on a day to day basis. However, if you want to experiment with "cleaner" data sets (that don't have as many issues) there are a couple websites I use below.
 
