@@ -15,7 +15,7 @@ A couple articles I wrote on top 25 packages I use on day to day basis in Python
 - Cheat Sheet: https://marqueegroup.ca/wp-content/uploads/2021/03/Python-Packages-Cheat-Sheet.pdf
 
 This link also has a great list of all the popular "finance" packages in Python:
-https://github.com/wilsonfreitas/awesome-quant 
+https://github.com/wilsonfreitas/awesome-quant
 
 ## My Medium Account
 https://bogdan-tudose.medium.com/
