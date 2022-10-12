@@ -30,6 +30,7 @@ https://bogdan-tudose.medium.com/
 - https://www.reddit.com/r/learnpython
 - https://stackoverflow.com/ - people usually ask specific questions and best answer gets upvoted
 - https://pbpython.com/ - newsletter/blog with some practical business applications
+- [Explore Python](https://kandi.openweaver.com/explore/python) - Explore a curated list of Python popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
 
 ## Book Recommendations
 - Python for Finance
